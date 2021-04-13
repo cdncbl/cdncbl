@@ -1,6 +1,4 @@
-html,body{
-				margin:5px
-}
+
 .post-entry .scroll-image{flex-wrap:nowrap;justify-content:flex-start;position:relative;width:111%;left:-5.5%;padding:8px 5.5% 18px 5.5%;overflow-y:hidden;overflow-x:auto;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}
 .post-entry .scroll-image img{display:block;flex:0 0 auto;width:80%;margin:0 4% 0 0!important;}
 .post-entry .scroll-image img:last-of-type{margin-right:0!important}
